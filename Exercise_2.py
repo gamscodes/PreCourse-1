@@ -1,6 +1,6 @@
 # stack using singly Linked List
 # Time Complexity for push() = O(1) because insertion happens at the head of the linked list, it's a constant-time operation
-# Time complexity for pop() - O(1) because deletion happens at the head, it takes constant time
+# Time complexity for pop() = O(1) because deletion happens at the head, it takes constant time
 # Space Complexity O(n) as stacks stores the n elements
 
 
